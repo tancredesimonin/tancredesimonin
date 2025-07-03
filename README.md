@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Tancrède Simonin, Fullstack Developer Freelance.
 
-<!--
-**tancredesimonin/tancredesimonin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1685" alt="image" src="https://github.com/user-attachments/assets/b786c7b6-40b0-431d-9408-1af7aa2e8d3c" />
 
-Here are some ideas to get you started:
+## Quick links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [My website tancrede.eu](https://tancrede.eu)
+- [My Linkedin profile](https://www.linkedin.com/in/tancredesimonin)
+
+## My preferred stack
+
+- TypeScript
+- Node.js
+- NestJS
+- Next.js
+- React.js
