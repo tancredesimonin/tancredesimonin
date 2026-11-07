@@ -1,4 +1,7 @@
-<a href="https://tancrede.eu/en"><img src="assets/banner.png" alt="Tancrède Simonin, freelance engineer, open banking and fintech" width="100%"></a>
+<a href="https://tancrede.eu/en"><picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner.png">
+  <img src="assets/banner.gif" alt="ts_ · Business impact. Technical rigour. Compliance by design. Tancrède Simonin, freelance engineer, open banking and fintech" width="100%">
+</picture></a>
 
 **Freelance engineer, open banking & fintech.** I design and build secure, compliant APIs for banks and fintechs, from the product decision to production. Freelance since 2019, based in Marseille, France.
 
